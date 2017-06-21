@@ -1,0 +1,21 @@
+{
+    "author": "tomitnh@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tomits-bioclock",
+    "pebble": {
+        "displayName": "Tomits Bioclock",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "1c70230d-1cec-4a55-b7c0-ab37f6da84b7",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
